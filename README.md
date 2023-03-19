@@ -9,7 +9,6 @@
 
 - 🤝 I’m looking for help with **internship or part-time job that fit my skills.**
 
-- 💬 Ask me about **drones and object detection.**
 
 - 📫 How to reach me **bartuna.bt@gmail.com**
 
