@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">An electrical electronical engineering student in Marmara University from Turkey</h3>
+<h3 align="center">Senior electrical electronics engineering student at Marmara University from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunabaris&label=Profile%20views&color=0e75b6&style=flat" alt="tunabaris" /> </p>
 
-- 🔭 I’m currently working on **embedded software and artificial intelligence.**
+- 🔭 I’m currently working on **artificial intelligence and control systems.**
 
-- 🌱 I’m currently learning **data science and machine learning.**
-
-- 🤝 I’m looking for help with **internship or part-time job that fit my skills.**
+- 🤝 I’m looking for help with **full-time job that fits my skills.**
 
 
 - 📫 How to reach me **bartuna.bt@gmail.com**
