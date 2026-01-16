@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunabaris&label=Profile%20views&color=0e75b6&style=flat" alt="tunabaris" /> </p>
 
-- 🔭 I’m currently working on **artificial intelligence and control systems.**
+- 🔭 I’m currently working on **artificial intelligence and project management.**
 
-- 🤝 I’m looking for help with **full-time job that fits my skills.**
+- 🤝 I’m looking for help with **part-time job that fits my skills.**
 
 
 - 📫 How to reach me **bartuna.bt@gmail.com**
